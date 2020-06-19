@@ -1,0 +1,13 @@
+C:\Users\Jaya Patel\repos\NameProject\NameProject\bin\Debug\netcoreapp3.1\NameProject.exe
+C:\Users\Jaya Patel\repos\NameProject\NameProject\bin\Debug\netcoreapp3.1\NameProject.deps.json
+C:\Users\Jaya Patel\repos\NameProject\NameProject\bin\Debug\netcoreapp3.1\NameProject.runtimeconfig.json
+C:\Users\Jaya Patel\repos\NameProject\NameProject\bin\Debug\netcoreapp3.1\NameProject.runtimeconfig.dev.json
+C:\Users\Jaya Patel\repos\NameProject\NameProject\bin\Debug\netcoreapp3.1\NameProject.dll
+C:\Users\Jaya Patel\repos\NameProject\NameProject\bin\Debug\netcoreapp3.1\NameProject.pdb
+C:\Users\Jaya Patel\repos\NameProject\NameProject\obj\Debug\netcoreapp3.1\NameProject.csprojAssemblyReference.cache
+C:\Users\Jaya Patel\repos\NameProject\NameProject\obj\Debug\netcoreapp3.1\NameProject.AssemblyInfoInputs.cache
+C:\Users\Jaya Patel\repos\NameProject\NameProject\obj\Debug\netcoreapp3.1\NameProject.AssemblyInfo.cs
+C:\Users\Jaya Patel\repos\NameProject\NameProject\obj\Debug\netcoreapp3.1\NameProject.csproj.CoreCompileInputs.cache
+C:\Users\Jaya Patel\repos\NameProject\NameProject\obj\Debug\netcoreapp3.1\NameProject.dll
+C:\Users\Jaya Patel\repos\NameProject\NameProject\obj\Debug\netcoreapp3.1\NameProject.pdb
+C:\Users\Jaya Patel\repos\NameProject\NameProject\obj\Debug\netcoreapp3.1\NameProject.genruntimeconfig.cache
