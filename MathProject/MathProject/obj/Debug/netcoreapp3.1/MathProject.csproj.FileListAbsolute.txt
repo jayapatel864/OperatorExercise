@@ -1,0 +1,13 @@
+C:\Users\Jaya Patel\repos\MathProject\MathProject\obj\Debug\netcoreapp3.1\MathProject.csprojAssemblyReference.cache
+C:\Users\Jaya Patel\repos\MathProject\MathProject\obj\Debug\netcoreapp3.1\MathProject.AssemblyInfoInputs.cache
+C:\Users\Jaya Patel\repos\MathProject\MathProject\obj\Debug\netcoreapp3.1\MathProject.AssemblyInfo.cs
+C:\Users\Jaya Patel\repos\MathProject\MathProject\obj\Debug\netcoreapp3.1\MathProject.csproj.CoreCompileInputs.cache
+C:\Users\Jaya Patel\repos\MathProject\MathProject\bin\Debug\netcoreapp3.1\MathProject.exe
+C:\Users\Jaya Patel\repos\MathProject\MathProject\bin\Debug\netcoreapp3.1\MathProject.deps.json
+C:\Users\Jaya Patel\repos\MathProject\MathProject\bin\Debug\netcoreapp3.1\MathProject.runtimeconfig.json
+C:\Users\Jaya Patel\repos\MathProject\MathProject\bin\Debug\netcoreapp3.1\MathProject.runtimeconfig.dev.json
+C:\Users\Jaya Patel\repos\MathProject\MathProject\bin\Debug\netcoreapp3.1\MathProject.dll
+C:\Users\Jaya Patel\repos\MathProject\MathProject\bin\Debug\netcoreapp3.1\MathProject.pdb
+C:\Users\Jaya Patel\repos\MathProject\MathProject\obj\Debug\netcoreapp3.1\MathProject.dll
+C:\Users\Jaya Patel\repos\MathProject\MathProject\obj\Debug\netcoreapp3.1\MathProject.pdb
+C:\Users\Jaya Patel\repos\MathProject\MathProject\obj\Debug\netcoreapp3.1\MathProject.genruntimeconfig.cache
